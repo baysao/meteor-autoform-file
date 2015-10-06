@@ -2,7 +2,7 @@ Package.describe({
   name: "baysao:autoform-file",
   summary: "File upload for AutoForm",
   description: "File upload for AutoForm",
-  version: "0.2.9",
+  version: "0.2.10",
   git: "http://github.com/yogiben/autoform-file.git"
 });
 
